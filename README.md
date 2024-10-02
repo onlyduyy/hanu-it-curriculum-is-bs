@@ -23,7 +23,7 @@ Một kho từ vựng Tiếng Anh cho dân IT mà bạn có thể xem trên Gith
 
 ### 2. Đi đọc thêm nhiều hơn
 
-Đọc thêm Documentation cho các loại công nghệ bạn dùng (Python, Rust .etc.) cũng như các diễn đàn như [Tildes.net](), [Lobste.rs]() hoặc [HackerNews]() hoặc lục rất nhiều tài nguyên từ các [Awesome List]() và sử dụng từ điển nhiều (Thay vì dùng dịch tự động, đồng thời nên dùng từ điển đơn ngữ nhiều hơn).  
+Đọc thêm Documentation cho các loại công nghệ bạn dùng (Python, Rust .etc.) cũng như các diễn đàn như [Tildes.net](https://tildes.net/), [Lobste.rs](https://lobste.rs/) hoặc [HackerNews](https://news.ycombinator.com/) hoặc lục rất nhiều tài nguyên từ các [Awesome List](https://github.com/sindresorhus/awesome) và sử dụng từ điển nhiều (Thay vì dùng dịch tự động, đồng thời nên dùng từ điển đơn ngữ nhiều hơn).  
 
 Nghe thì Youtube, Podcast, hoặc đủ thứ cái. Bao quanh mình bởi Tiếng Anh và Tiếng Anh chuyên ngành để lên trình.
 
@@ -67,13 +67,20 @@ Nếu quyển này khó học thì có thể cân nhắc chọn một trong hai 
 - [Operating Systems Course for Beginners](https://www.youtube.com/watch?v=yK1uBHPdp30&pp=ygUUb3BlcmF0aW5nIHN5c3RlbSBmY2M%3D) - Đơn giản hơn thì có khóa này
 
 ### Nguyên lý máy tính
+Học về những cái rất cơ bản của máy tính. Học thông qua danh sách phát [Crash Course Computer Science ](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 **Học kì hai sẽ bao gồm**:
 
 ### Lập trình 2
 Tập trung vào OOP và một số thứ linh tinh.
 
+Ở học kì một chỉ học phần bề mặt của OOP thôi.
+
+1. [Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI&pp=ygUQb29wIGZyZWVjb2RlY2FtcA%3D%3D)
+2. [Learn Java Object-Oriented Programming (with actual code)](https://www.youtube.com/watch?v=TiccevwEVe8)
+
 ### Xác suất thống kê
+- [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/)
 
 ### An toàn thông tin
 Một môn đầy lý thuyết mà bạn sẽ hiếm khi áp dụng được. Để qua Test thì bạn hãy tải [Anki](), tải [Quizlet-to-Anki Addon](https://ankiweb.net/shared/info/1362209126) rồi tìm bộ thẻ được làm bởi sinh viên trường mình trên Quizlet rồi chạy để tải về Anki, xem hướng dẫn cách làm [tại đây](https://www.youtube.com/watch?v=4zpeu-XTBAQ&pp=ygUQY8OhY2ggbcOsbmggYW5raQ%3D%3D), đọc [How do you cram with Anki?](https://old.reddit.com/r/Anki/comments/iaqrjr/how_do_you_cram_with_anki/) rồi chạy.
@@ -81,7 +88,6 @@ Một môn đầy lý thuyết mà bạn sẽ hiếm khi áp dụng được. Đ
 Cách chạy này áp dụng cho tất cả các môn lý thuyết.
 
 Nếu bạn thích học nghiêm túc để hiểu thì học: <https://github.com/ossu/computer-science#core-security>.
-
 
 ### Hệ thống nhúng
 Đừng đăng kí học môn này trên trường. Nếu bạn đã ghét thì càng thêm ghét, nếu bạn đã thích thì không sớm thì muộn cũng thành ghét môn này. Tất cả những gì bạn được học là vẽ mấy cái sơ đồ chết tiệt để rồi cuối kì bạn cần phải nộp một sản phẩm sử dụng mạch Arduino (Phải học và làm song song quá trình học mấy cái linh tinh ở trên).
@@ -101,8 +107,7 @@ Khóa của trường mình về cơ bản là PMBOK. Nếu bạn thích học k
 Một lựa chọn mà mình gơi ý để học Quản lý dự án là học khóa [Google Project Management Certificate](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6puLWxUtqAjZkIB4dB_JFzk).
 
 ### Mạng máy tính
-
-
+- [Computer Networking: a Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 
 ### Trước khi lên năm 3
 Đây là phần mình gợi ý thêm thôi và nó không có trong chương trình học.
@@ -116,6 +121,9 @@ Gộp cả hai học phần ở kì 1 năm 3 lẫn kì 2 năm 3 luôn.
 Học tại <https://github.com/ossu/computer-science#advanced-programming>
 
 ### Cơ sở dữ liệu
+- [Database Design Course](https://www.youtube.com/watch?v=ztHopE5Wnpc&pp=ygUIZGF0YWJhc2U%3D)
+- 3 khóa Database đầu tiên trong bảng <https://github.com/ossu/computer-science#core-applications>
+- [CS186Berkeley](https://www.youtube.com/user/CS186Berkeley/videos)
 
 ### Phân tích Thiết kế Hệ thống
 Chương trình của trường dựa trên quyển [Modern Systems Analysis and Design](https://www.amazon.com/Modern-Systems-Analysis-Design-8th/dp/0134204921)
